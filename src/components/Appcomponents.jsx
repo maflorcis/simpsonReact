@@ -6,10 +6,7 @@ const Appcomponents = () => {
         <div>
       <img className="img-fluid" src="/img/image.png" alt="title" />
       </div>
-      <div>
-      <button className="btn btn-warning text-center">Obtener Frase</button>
-      </div>
-    </section>
+       </section>
   );
 };
 
